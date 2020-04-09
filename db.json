@@ -9,8 +9,24 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "login": [
-    { "id": 1, "usuario": "carlos", "senha": "123" }
+    { "id": 1, "usuario": "carlos", "senha": "123", "email": "avila1982@gmail.com" }
   ],
+  "sevico" : [
+    {
+      "id": 1, 
+      "descricao": "Bueiro Aberto",
+      "tipoServico" [
+        { "id": 1, "descricao": "Setor de Obras", "email": "avila1982@gmail.com" }
+      ]
+    },
+    {
+      "id": 2, 
+      "descricao": "Calçada desconforme",
+      "tipoServico" [
+        { "id": 1, "descricao": "Setor de Obras", "email": "avila1982@gmail.com" }
+      ]
+    }
+  ],  
   "profile": {
     "name": "typicode"
   }  
