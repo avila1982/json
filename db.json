@@ -15,14 +15,14 @@
     {
       "id": 1, 
       "descricao": "Bueiro Aberto",
-      "tipoServico" [
+      "tipoServico": [
         { "id": 1, "descricao": "Setor de Obras", "email": "avila1982@gmail.com" }
       ]
     },
     {
       "id": 2, 
       "descricao": "Calçada desconforme",
-      "tipoServico" [
+      "tipoServico": [
         { "id": 1, "descricao": "Setor de Obras", "email": "avila1982@gmail.com" }
       ]
     }
