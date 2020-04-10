@@ -13,13 +13,9 @@
   ],
   "sevico" : [
     {
+      "userId": 1,
       "id": 1, 
       "descricao": "Bueiro Aberto",
-      "email": "avila1982@gmail.com"
-    },
-    {
-      "id": 2, 
-      "descricao": "Calçada desconforme",
       "email": "avila1982@gmail.com"
     }
   ],  
