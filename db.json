@@ -6,7 +6,7 @@
   "servico": [
     { "id":1, 
       "descricao":"Bueiro aberto", 
-      "tipoServico" {
+      "tipoServico": {
           "id":1,
           "descricao":"Obras",
           "email":"avila1982@gmail.com"
@@ -14,7 +14,7 @@
     },
     { "id":2, 
       "descricao":"Calçada descronforme", 
-      "tipoServico" {
+      "tipoServico": {
           "id":1,
           "descricao":"Obras",
           "email":"avila1982@gmail.com"
