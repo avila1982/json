@@ -1,25 +1,15 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "login": [
-    { "id": 1, "usuario": "carlos", "senha": "123", "email": "avila1982@gmail.com" }
-  ],
-  "sevico" : [
-    {
-      "userId": 1,
-      "id": 1, 
-      "descricao": "Bueiro Aberto",
-      "email": "avila1982@gmail.com"
-    }
-  ],  
-  "profile": {
-    "name": "typicode"
-  }  
-}
+[
+  {
+    index: 0,
+    aboudt: "Pessoa 1",
+    email: "avila1982@gmail.com",
+    name: "Carlos Eduardo Avila",
+    picture: "https://randomuser.me/api/portraits/men/0.jpg"  
+  },
+  {
+    index: 1,
+    aboudt: "Pessoa2",
+    email: "avila1982@gmail.com",
+    name: "Fulano da Silva",
+    picture: "https://randomuser.me/api/portraits/men/1.jpg"
+  }
