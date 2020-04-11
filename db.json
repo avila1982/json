@@ -3,9 +3,23 @@
     { "index": 0,"about":"Pessoa 1","email":"avila1982@gmail.com","name":"Carlos Eduardo Avila","picture":"https://randomuser.me/api/portraits/men/0.jpg" },
     { "index": 1,"about":"Pessoa 1","email":"avila1982@gmail.com","name":"Fulano da Silva","picture":"https://randomuser.me/api/portraits/men/1.jpg" }    
   ],
-  "obras": [
-    { "index":0, "descricao":"Bueiro aberto", "email":"avila1982@gmail.com" },
-    { "index":1, "descricao":"Calçada deconforme", "email":"avila1982@gmail.com" }
+  "servico": [
+    { "id":1, 
+      "descricao":"Bueiro aberto", 
+      "tipoServico" {
+          "id":1,
+          "descricao":"Obras",
+          "email":"avila1982@gmail.com"
+      }
+    },
+    { "id":2, 
+      "descricao":"Calçada descronforme", 
+      "tipoServico" {
+          "id":1,
+          "descricao":"Obras",
+          "email":"avila1982@gmail.com"
+      }
+    }
   ]
 }
 
