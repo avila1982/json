@@ -5,19 +5,23 @@
   ],
   "servico": [
     { "id":1, 
-      "descricao":"Bueiro aberto", 
+      "descricao":"Informar bueiro aberto",
+      "complemento":"Tirar a foto do bueiro que está apresentando perigo para pedestres.",
       "tipoServico": {
           "id":1,
           "descricao":"Obras",
-          "email":"avila1982@gmail.com"
+          "email":"avila1982@gmail.com",
+          "descricaoEmail":"Caro Secretário, este e-mail informa o bueiro aberto."
       }
     },
     { "id":2, 
       "descricao":"Calçada descronforme", 
+      "complemento":"Tirar a foto da calçada que está apresentando perigo para pedestres.",
       "tipoServico": {
           "id":1,
           "descricao":"Obras",
-          "email":"avila1982@gmail.com"
+          "email":"avila1982@gmail.com",
+          "descricaoEmail":"Caro Secretário, este e-mail informa o bueiro aberto."
       }
     }
   ]
