@@ -1,15 +1,8 @@
-[
-  {
-    index: 0,
-    about: "Pessoa 1",
-    email: "avila1982@gmail.com",
-    name: "Carlos Eduardo Avila",
-    picture: "https://randomuser.me/api/portraits/men/0.jpg"  
-  },
-  {
-    index: 1,
-    about: "Pessoa2",
-    email: "avila1982@gmail.com",
-    name: "Fulano da Silva",
-    picture: "https://randomuser.me/api/portraits/men/1.jpg"
-  }
+{
+  "pessoas": [
+    { "index": 0,"about":"Pessoa 1","email":"avila1982@gmail.com","name":"Carlos Eduardo Avila","picture":"https://randomuser.me/api/portraits/men/0.jpg" },
+    { "index": 0,"about":"Pessoa 1","email":"avila1982@gmail.com","name":"Fulano da Silva","picture":"https://randomuser.me/api/portraits/men/1.jpg" }    
+  ]
+}
+
+
