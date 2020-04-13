@@ -6,11 +6,11 @@
   "servico": [
     { "id":1, 
       "descricao":"Informar bueiro aberto",
-      "complemento":"Tirar a foto do bueiro que está apresentando perigo para pedestres. e-mail: normenio.momm@betha.com.br",
+      "complemento":"Tirar a foto do bueiro que está apresentando perigo para pedestres. e-mail: avila1982@gmail.com",
       "tipoServico": {
           "id":1,
           "descricao":"Obras",
-          "email":"normenio.momm@betha.com.br",
+          "email":"avila1982@gmail.com",
           "descricaoEmail":"Caro Secretário, este e-mail informa o bueiro aberto."
       }
     },
