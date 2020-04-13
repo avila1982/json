@@ -15,7 +15,7 @@
       }
     },
     { "id":2, 
-      "descricao":"Calçada descronforme", 
+      "descricao":"Calçada apresentando problema", 
       "complemento":"Tirar a foto da calçada que está apresentando perigo para pedestres.",
       "tipoServico": {
           "id":1,
